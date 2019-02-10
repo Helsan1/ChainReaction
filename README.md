@@ -1,6 +1,6 @@
 # ChainReaction
 
-What is SupSudoku?
+What is ChainReaction?
 =============
 
 Between 2 and 8 players are displayed on a rectangular board with a default of 8 rows and 5 columns. Each player has pawns of a certain color.
